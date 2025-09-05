@@ -10,5 +10,3 @@ wheels/
 .venv
 mangrove_classifier.pth
 mangrove_model.pth
-binary_dataset/
-Testing/
